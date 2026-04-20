@@ -1,6 +1,6 @@
 # Проект:  Построение модели предсказания рейтинга отеля
 
-<img src="images/Booking-Logo-PNG-672x448.png" alt="Booking Logo" width="300">
+<img src="Images/Booking-Logo-PNG-672x448.png" alt="Booking Logo" width="300">
 
 ## Оглавление
 
